@@ -30,7 +30,7 @@ For the three candidates included in the precint, Charles Stockham, Diana DeGett
 
 Diana DeGette, with 272,892 votes, is the winning candidate receiving 73.8% of the total precinct votes.
 
-!{}(images/election_results.png)
+!{} (images/election_results.png)
 
 ### Election Audit Summary
 
