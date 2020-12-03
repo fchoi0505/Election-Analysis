@@ -6,7 +6,7 @@ Use of Python code to analyze election votes cast to determine election results 
 
 ### Purpose:
 
-Using Python code to read and analyze election voting data collected, we are able to quickly process over 360,000 votes cast to determine election winners and voting number breakdowns, such as votes by county and per candidate for the precinct of interest.
+Using Python code to read and analyze election voting data collected, we are able to quickly process over 360,000 votes cast to determine election winners and voting number breakdowns, such as votes by county and per candidate for the precinct of interest.  Creating dictionaries for candidate votes and county votes, will allow the python code to loop through the candidates and counties included in the dataset and tally vote counts to enable vote breakdowns.
 
 ## Summary of Election Outcomes
 
